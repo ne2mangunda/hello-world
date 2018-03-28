@@ -1,4 +1,4 @@
 # hello-world
 My first repository
+This is the foundation of my future work.
 
-I am excited to be working on my first GitHub repository.
